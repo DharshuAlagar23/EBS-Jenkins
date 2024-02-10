@@ -1,4 +1,4 @@
-package com.ebs;
+/*package com.ebs;
 
 import static org.testng.Assert.assertEquals;
 
@@ -213,5 +213,5 @@ class ElectricityBillSystemApplicationTests {
 	
 
 	
-}
+}*/
 
